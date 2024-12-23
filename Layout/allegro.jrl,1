@@ -1,0 +1,16 @@
+\t (00:00:02) allegro 24.1 P001 (4234998) [9/4/2024] Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Sun Dec 15 11:59:29 2024
+\t (00:00:02)         Host=DESKTOP-I3J2VM4 User=TeoR Pid=6616 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\OrCADX_24.1\tools\bin\allegro.exe
+\t (00:00:02) 
+\t (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 116667
+\i (00:00:05) generaledit 
+\i (00:00:23) opencd 'C:/Users/TeoR/Desktop/facultate/ANU 3/SEM 1/P1/PROIECT/LAYOUT/copie la test 1/allegro/stabilizator_layout_v5_save3.brd' 
+\i (00:00:23) trapsize 815
+\i (00:00:23) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\t (00:00:23) Opening existing design...
+\i (00:00:23) trapsize 4572
+\t (00:00:23) > Sending response DoneOpenBoard
+\t (00:00:23)     Journal end - Sun Dec 15 11:59:50 2024
